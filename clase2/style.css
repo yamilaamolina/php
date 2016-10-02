@@ -1,0 +1,15 @@
+* {
+  border: 1px solid blue;
+}
+.wrap{
+  width: 760px;
+  margin: 0 auto;
+}
+.noticias{
+  width: 550px;
+  float: left;
+}
+.publicidad{
+  width: 200px;
+  float: left;
+}
