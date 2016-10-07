@@ -1,4 +1,5 @@
 $(document).ready(function() {
+
     $('#formBuscar').on('submit', function(event) {
         console.log("submit");
         event.preventDefault();
